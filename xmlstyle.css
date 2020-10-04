@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+Song {
+    white-space: pre;
+}
+
+Song Artists {
+    font-size: 25px; font-weight: 500;
+
+}
+
+Song Title {
+
+    font-size: 50px;
+}
+
+Song Genre {
+
+    color: #FF3383;
+}
+
+Song Year {
+
+    color: #F98D04;
+}

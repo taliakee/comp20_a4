@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xmlstyle.css"?>
+<Songs>
+    <Song>
+        <Artists>Taylor Swift</Artists>
+        <Title>Lover</Title>
+        <Genre>Pop</Genre>
+        <Year>2019</Year>
+    </Song>
+    <Song>
+        <Artists>James Arthur</Artists>
+        <Title>Falling Like The Stars</Title>
+        <Genre>Pop</Genre>
+        <Year>2019</Year>
+    </Song>
+    <Song>
+        <Artists>Lewis Capaldi</Artists>
+        <Title>Before You Go</Title>
+        <Genre>Alternative/Indie</Genre>
+        <Year>2019</Year>
+    </Song>
+    <Song>
+        <Artists>Queen</Artists>
+        <Title>Love Of My Life</Title>
+        <Genre>Rock</Genre>
+        <Year>1975</Year>
+    </Song>
+    <Song>
+        <Artists>Tracy Chapman</Artists>
+        <Title>Fast Car</Title>
+        <Genre>Folk</Genre>
+        <Year>1988</Year>
+    </Song>
+    <Song>
+        <Artists>The Beatles</Artists>
+        <Title>Hey Jude</Title>
+        <Genre>Pop Rock</Genre>
+        <Year>1968</Year>
+    </Song>
+    <Song>
+        <Artists>Dan + Shay</Artists>
+        <Title>Speechless</Title>
+        <Genre>Country Pop</Genre>
+        <Year>2018</Year>
+    </Song>
+    <Song>
+        <Artists>Lauv</Artists>
+        <Title>Tattoos Together</Title>
+        <Genre>Pop</Genre>
+        <Year>2020</Year>
+    </Song>
+    <Song>
+        <Artists>Lady Gaga</Artists>
+        <Title>Always Remember Us This Way</Title>
+        <Genre>Country</Genre>
+        <Year>2018</Year>
+    </Song>
+    <Song>
+        <Artists>Bridget Mendler</Artists>
+        <Title>Hurricane</Title>
+        <Genre>Pop</Genre>
+        <Year>2013</Year>
+    </Song>
+</Songs>
